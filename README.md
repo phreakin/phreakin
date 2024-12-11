@@ -66,8 +66,9 @@
 
 #### 📈 GitHub Stats (The Good, the Bad, and the Broken)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phreakin&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phreakin&layout=compact&theme=radical)
+🔥![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phreakin&show_icons=true&theme=radical)
+
+🔥![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phreakin&layout=compact&theme=radical)
 
 ---
 
