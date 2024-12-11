@@ -113,7 +113,7 @@
 
 ####  🧛 Final Words of Wisdom
 
-##### Say my name 3 times like Candy Man, and I might just appear to fix (or break) your code. **Phreakin. Phreakin. Phreakin.**
+##### Say my name 3 times like Candy Man, bet I roll on your asss like an avalanche. **Phreakin. Phreakin....**
 
 ---
 
