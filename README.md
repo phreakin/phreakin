@@ -1,10 +1,10 @@
 # Welcome to My Phreakin’ Chaos! 🤘
 
-Hi, I’m Phreakin—your friendly neighborhood developer and part-time chaos magician. My code may not change the world, but it will definitely break something in production. Enter at your own risk.
+### Hi, I’m Phreakin, your friendly neighborhood developer and part-time chaos magician. My code may not change the world, but it will break something in production. Enter at your own risk.
 
 ---
 
-## 🧙 Who's Phreakin?
+### 🧙 Who's Phreakin?
 
 - 🔥 **Code Wizard**: Mastering the dark arts of debugging and spaghetti code architecture.
 - 💻 **Tool Enthusiast**: If it’s made by JetBrains, I probably own it—and still don’t use half the features.
@@ -12,9 +12,9 @@ Hi, I’m Phreakin—your friendly neighborhood developer and part-time chaos ma
 
 ---
 
-## 🛠️ What Can I Do? (Besides Break Stuff)
+### 🛠️ What Can I Do? (Besides Break Stuff)
 
-### Programming Languages
+#### Programming Languages
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square)
@@ -32,7 +32,7 @@ Hi, I’m Phreakin—your friendly neighborhood developer and part-time chaos ma
 ![MountainDew](https://img.shields.io/badge/MountainDew-07703c?logo=mountaindew&logoColor=white&style=flat-square)
 ![Weed](https://img.shields.io/badge/Weed-008000?logo=weed&logoColor=white&style=flat-square)
 
-### Tools I Pretend to Master:
+#### Tools I Pretend to Master:
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?logo=jetbrains&logoColor=white&style=flat-square)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=jetbrains&logoColor=white&style=flat-square)
 ![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?logo=jetbrains&logoColor=white&style=flat-square)
@@ -54,7 +54,7 @@ Hi, I’m Phreakin—your friendly neighborhood developer and part-time chaos ma
 
 ---
 
-## 🎸 Fun Facts About Me
+#### 🎸 Fun Facts About Me
 
 - **Coding Philosophy**: If it compiles, ship it. If it doesn’t, blame the intern (even if there isn’t one).
 - **Favorite Tool**: `console.log()`. Who needs debuggers anyway?
@@ -64,16 +64,16 @@ Hi, I’m Phreakin—your friendly neighborhood developer and part-time chaos ma
 
 ---
 
-## 📈 GitHub Stats (The Good, the Bad, and the Broken)
+#### 📈 GitHub Stats (The Good, the Bad, and the Broken)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phreakin&show_icons=true&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phreakin&layout=compact&theme=radical)
 
 ---
 
-## 🤡 How to Get Ah'old of Me
+#### 🤡 How to Get Ah'old of Me
 
-Knock knock, **scratch Motherfucker**. 🧛
+##### Knock knock, **scratch Motherfucker**. 🧛
 
 - 🐦 **Twitter**: [@SmashinHoles](https://twitter.com/SmashinHoles) – Where I post nonsense, memes, and the occasional tech rant.
 - 📧 Email: [phreakin@gmail.com](mailto:phreakin@gmail.com) – Send your bug reports here, and I promise to laugh before replying.
@@ -81,37 +81,37 @@ Knock knock, **scratch Motherfucker**. 🧛
 
 ---
 
-## 🔥 Projects You Didn't Ask For
+#### 🔥 Projects You Didn't Ask For
 
-1. **My Experimental Madness**: Projects I started because I was bored and abandoned because… I stayed bored.
-2. **An Automated Excuse Generator**: Tired of apologizing for breaking stuff? This bot does it for you.
-3. **Yet Another To-Do List App**: Because the 10,000 other ones on GitHub aren’t cutting it.
-4. **A Copy Of Your Favorite App**: Why not?
-
----
-
-## 💡 Dev Jokes (Because You're Here for the Laughs)
-
-> Why do programmers prefer dark mode?  
-> Because light attracts bugs. 🪲
-
-> How do you comfort a JavaScript bug?  
-> You console it. 😭
+##### 1. **My Experimental Madness**: Projects I started because I was bored and abandoned because… I stayed bored.
+##### 2. **An Automated Excuse Generator**: Tired of apologizing for breaking stuff? This bot does it for you.
+##### 3. **Yet Another To-Do List App**: Because the 10,000 other ones on GitHub aren’t cutting it.
+##### 4. **A Copy Of Your Favorite App**: Why not?
 
 ---
 
-## 🥤 Support My Madness
+#### 💡 Dev Jokes (Because You're Here for the Laughs)
 
-**Buy Me a Mountain Dew**  
-Because caffeine and sugar are the real MVPs behind every successful project.  
-(*Coming Soon: A link to this glorious endeavor.*)
+##### > Why do programmers prefer dark mode?  
+##### > Because light attracts bugs. 🪲
 
----
-
-## 🧛 Final Words of Wisdom
-
-Say my name 3 times like Candy Man, and I might just appear to fix (or break) your code. **Phreakin. Phreakin. Phreakin.**
+##### > How do you comfort a JavaScript bug?  
+##### > You console it. 😭
 
 ---
 
-Thanks for dropping by, my friend. Feel free to explore, laugh at my projects, or just hit me up to chat about code, chaos, or Mountain Dew. And remember: it’s not a bug—it’s a feature that hasn’t been documented yet. 😉
+####  🥤 Support My Madness
+
+##### **Buy Me a Mountain Dew**  
+##### Because caffeine and sugar are the real MVPs behind every successful project.  
+##### (*Coming Soon: A link to this glorious endeavor.*)
+
+---
+
+####  🧛 Final Words of Wisdom
+
+##### Say my name 3 times like Candy Man, and I might just appear to fix (or break) your code. **Phreakin. Phreakin. Phreakin.**
+
+---
+
+##### Thanks for dropping by, my friend. Feel free to explore, laugh at my projects, or just hit me up to chat about code, chaos, or Mountain Dew. ##### And remember: it’s not a bug—it’s a feature that hasn’t been documented yet. 😉
