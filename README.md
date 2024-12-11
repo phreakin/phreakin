@@ -76,9 +76,9 @@
 
 ##### Knock knock, **scratch Motherfucker**. 🧛
 
-- 🐦   ** Twitter **: [@SmashinHoles](https://twitter.com/SmashinHoles) – Where I post nonsense, memes, and the occasional tech rant.
-- 📧     ** Email **: [phreakin@gmail.com](mailto:phreakin@gmail.com) – Send your bug reports here, and I promise to laugh before replying.
-- 🌐   ** Website **: [https://www.phreakin.io](https://www.phreakin.io) - If you find the magic door, I need to move it.
+- 🐦   **Twitter**: [@SmashinHoles](https://twitter.com/SmashinHoles) – Where I post nonsense, memes, and the occasional tech rant.
+- 📧     **Email**: [phreakin@gmail.com](mailto:phreakin@gmail.com) – Send your bug reports here, and I promise to laugh before replying.
+- 🌐   **Website**: [https://www.phreakin.io](https://www.phreakin.io) - If you find the magic door, I need to move it.
 
 ---
 
