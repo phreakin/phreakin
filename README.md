@@ -56,29 +56,31 @@
 
 #### 🎸 Fun Facts About Me
 
-- **Coding Philosophy**: If it compiles, ship it. If it doesn’t, blame the intern (even if there isn’t one).
-- **Favorite Tool**: `console.log()`. Who needs debuggers anyway?
-- **Secret Skill**: Writing "temporary" code that lives forever, as well as copying code so well that even I can’t tell the difference. 
-- **Favorite Quote**: “It’s not a bug; it’s an undocumented feature.”
-- **Favorite Emoji**: 🖕💩🖕11
+- **Coding Philosophy**:     If it compiles, ship it. If it doesn’t, blame the intern (even if there isn’t one).
+- **Favorite Tool**:         `console.log()`. Who needs debuggers anyway?
+- **Secret Skill**:          Writing "temporary" code that lives forever, as well as copying code so well that even I can’t tell the difference. 
+- **Favorite Quote**:       “It’s not a bug; it’s an undocumented feature.”
+- **Favorite Emoji**:       🖕 💩 🖕
 
 ---
 
-#### 📈 GitHub Stats (The Good, the Bad, and the Broken)
+#### 📈 GitHub Stats
+####(The Good, the Bad, and the Broken)
 
-🔥![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phreakin&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phreakin&show_icons=true&theme=radical)
 
-🔥![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phreakin&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phreakin&layout=compact&theme=radical)
 
 ---
 
 #### 🤡 How to Get Ah'old of Me
 
+### Ultra Fun & Secret Way
 ##### Knock knock, **scratch Motherfucker**. 🧛
 
-- 🐦   **Twitter**: [@SmashinHoles](https://twitter.com/SmashinHoles) – Where I post nonsense, memes, and the occasional tech rant.
-- 📧     **Email**: [phreakin@gmail.com](mailto:phreakin@gmail.com) – Send your bug reports here, and I promise to laugh before replying.
-- 🌐   **Website**: [https://www.phreakin.io](https://www.phreakin.io) - If you find the magic door, I need to move it.
+🐦   **Twitter**:   [@SmashinHoles](https://twitter.com/SmashinHoles)
+📧   **Email**:     [phreakin@gmail.com](mailto:phreakin@gmail.com)
+🌐   **Website**:   [https://www.phreakin.io](https://www.phreakin.io)
 
 ---
 
