@@ -2,12 +2,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F8D866&center=true&vCenter=true&width=750&lines=Hi!%20I%27m%20Phreakin;PHP%20and%20MySQL%20Developer;Home%20Automation%20%26%20Management%20Developer;Windows%20Custom%20Scripts%20Developer" alt="Typing SVG" />
 </h1>
 
----
 
-🎯 **Role**: Disabled Student • PHP & MySQL Developer • Home Automation & Management Enthusiast
-💡 **Focus:** Backend APIs, MySQL database schema design & optimization for personal and home automation projects
-🛠️ **Stack:** PHP 8.x • MySQL 8 • Node.js • Composer • HTML/CSS • JavaScript
-📚 **Passion:** Making things work better, faster, and cleaner — with an obsession for personal efficiency and automation.
+🎯 **Role:**  
+Disabled Student • PHP & MySQL Developer • Home Automation & Management Enthusiast  
+
+💡 **Focus:**  
+Backend APIs, MySQL database schema design & optimization for personal and home automation projects  
+
+🛠️ **Stack:**  
+PHP 8.x • MySQL 8 • Node.js • Composer • HTML/CSS • JavaScript  
+
+📚 **Passion:**  
+Making things work better, faster, and cleaner — with an obsession for personal efficiency and automation.
 
 ## 🚀 What I’m Working On
 
