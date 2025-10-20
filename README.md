@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F8D866&center=true&vCenter=true&width=750&lines=Hi!%20I%27m%20Phreakin;PHP%20and%20MySQL%20Developer;Home%20Automation%20%26%20Management%20Developer;Windows%20Custom%20Scripts%20Developer" alt="Typing SVG" />
 </h1>
 
----
-
 🎯 **Role:**  
 Disabled Student • PHP & MySQL Developer • Home Automation & Management Enthusiast
 
@@ -19,10 +17,17 @@ Making things work better, faster, and cleaner — with an obsession for persona
 
 ## 🚀 What I’m Working On
 
-- 🏠 **Home Intranet System** — Modular CMS/intranet built with PHP 8 & MySQL 8, focusing on extensibility and local network integration.
-- 🧠 **Legacy App Optimization** — Refactoring old PHP/MySQL apps for better performance and maintainability.
-- 🔍 **Database Innovation** — Learning advanced MySQL features: window functions, CTEs, partitioning, and horizontal scaling.
-- 🧩 **Open-Source Contributions** — Focused on PHP database libraries, schema design tools, and backend utilities.
+🏠 **Home Intranet System**
+Modular CMS/intranet built with PHP 8 & MySQL 8, focusing on extensibility and local network integration.
+
+🧠 **Legacy App Optimization**
+Refactoring old PHP/MySQL apps for better performance and maintainability.
+
+🔍 **Database Innovation**
+Learning advanced MySQL features: window functions, CTEs, partitioning, and horizontal scaling.
+
+🧩 **Open-Source Contributions**
+Focused on PHP database libraries, schema design tools, and backend utilities.
 
 ## 🧩 Core Skills & Tools
 
