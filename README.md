@@ -80,26 +80,30 @@ Stay tuned for modular PHP/MySQL tools and home automation systems soon.
 
 ## 🌐 Socials
 
-- [🐙 GitHub](https://github.com/phreakin)
-- [𝕏 Twitter](https://twitter.com/smashinholes)
-- [💬 Telegram](https://t.me/phreakin)
-- [🌐 Website](https://pimpslap.org) *(coming soon)*
+🐙 **GitHub:** [github.com/phreakin](https://github.com/phreakin)
+
+𝕏 **Twitter:** [twitter.com/smashinholes](https://twitter.com/smashinholes)
+
+💬 **Telegram:** [t.me/phreakin](https://t.me/phreakin)
+
+🌐 **Website:** [pimpslap.org](https://pimpslap.org) *(coming soon)*
+
 
 ## 🎓 Learning Goals
 
-- 🤖 **Smart Home Integration:**  
+🤖 **Smart Home Integration:**  
   Integrate PHP/MySQL backends with home automation and entertainment systems.
 
-- 🧮 **Advanced MySQL Mastery:**  
+🧮 **Advanced MySQL Mastery:**  
   Learn partitioning, sharding, and replication techniques for scalable personal projects.
 
-- 🧱 **Modern PHP Development:**  
+🧱 **Modern PHP Development:**  
   Deepen understanding of PHP 8.x features, SOLID principles, and clean architecture.
 
-- 🐳 **Containerization with Docker:**  
+🐳 **Containerization with Docker:**  
   Use Docker to streamline local development and deployment for PHP/MySQL apps.
 
-- 🔐 **Web Security Practices:**  
+🔐 **Web Security Practices:**  
   Strengthen backend security with best practices for authentication, validation, and SQL protection.
 
 
