@@ -2,18 +2,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F8D866&center=true&vCenter=true&width=750&lines=Hi!%20I%27m%20Phreakin;PHP%20and%20MySQL%20Developer;Home%20Automation%20%26%20Management%20Developer;Windows%20Custom%20Scripts%20Developer" alt="Typing SVG" />
 </h1>
 
+---
 
 🎯 **Role:**  
-Disabled Student • PHP & MySQL Developer • Home Automation & Management Enthusiast  
+Disabled Student • PHP & MySQL Developer • Home Automation & Management Enthusiast
 
 💡 **Focus:**  
-Backend APIs, MySQL database schema design & optimization for personal and home automation projects  
+Backend APIs, MySQL database schema design & optimization for personal and home automation projects
 
 🛠️ **Stack:**  
-PHP 8.x • MySQL 8 • Node.js • Composer • HTML/CSS • JavaScript  
+PHP 8.x • MySQL 8 • Node.js • Composer • HTML/CSS • JavaScript
 
 📚 **Passion:**  
 Making things work better, faster, and cleaner — with an obsession for personal efficiency and automation.
+
 
 ## 🚀 What I’m Working On
 
@@ -36,16 +38,20 @@ Making things work better, faster, and cleaner — with an obsession for persona
 
 ## 📂 Selected Projects
 
-- **Home Intranet:**
-  Personal intranet system for notes, user management, and media — powered by PHP 8 & MySQL 8.
-- **Media Management:**
-  Lightweight cataloging app for local media — optimized queries and indexing for instant retrieval.
-- **Windows Installer Automation:**
-  PowerShell scripts that automate app installations, configurations, and font management on Windows 10/11.
-- **Legacy App Refactor:**
-  Modernized a decade-old PHP app, cutting load times by 40% and improving maintainability.
-- **CMS/Media Suite:**
-  A combined CMS and media hub designed for home use with modular PHP components.
+- 🏠 **Home Intranet:**  
+  A personal intranet system with user management, note-taking, and file storage — built with PHP 8 and MySQL 8.
+
+- 🎞️ **Media Management:**  
+  A lightweight media cataloging app for home use — featuring an efficient database schema and optimized queries for fast retrieval.
+
+- 🪟 **Windows Installer Automation:**  
+  PowerShell scripts to automate Windows environment setup — including app installations, system configurations, and font management.
+
+- 🧱 **Legacy App Refactor:**  
+  Revamped an old PHP/MySQL app to improve performance and security — reducing load times by over 40%.
+
+- 🧩 **CMS / Media Suite:**  
+  A combined CMS and media management system for personal use — built for modularity, simplicity, and scalability.
 
 ## 📈 GitHub Stats
 
@@ -81,11 +87,21 @@ Stay tuned for modular PHP/MySQL tools and home automation systems soon.
 
 ## 🎓 Learning Goals
 
-- Integrate PHP/MySQL backends with smart-home automation systems
-- Master advanced MySQL scaling (partitioning, sharding, replication)
-- Refine PHP 8.x best practices and SOLID-compliant architecture
-- Deploy using Docker for consistent, isolated local environments
-- Expand knowledge of web security for backend applications
+- 🤖 **Smart Home Integration:**  
+  Integrate PHP/MySQL backends with home automation and entertainment systems.
+
+- 🧮 **Advanced MySQL Mastery:**  
+  Learn partitioning, sharding, and replication techniques for scalable personal projects.
+
+- 🧱 **Modern PHP Development:**  
+  Deepen understanding of PHP 8.x features, SOLID principles, and clean architecture.
+
+- 🐳 **Containerization with Docker:**  
+  Use Docker to streamline local development and deployment for PHP/MySQL apps.
+
+- 🔐 **Web Security Practices:**  
+  Strengthen backend security with best practices for authentication, validation, and SQL protection.
+
 
 ## 📬 Let’s Connect
 
