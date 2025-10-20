@@ -141,9 +141,9 @@ Strengthen backend security with best practices for authentication, validation, 
 
 ## 📬 Memorable Quotes ##
 ---
-> _“Code is like humor — when you have to explain it, it’s bad.”_ — Cory House
+> _“Code is like humor — when you have to explain it, it’s bad.” — Cory House_
 
-> _“The best solution to a problem is often the simplest one.”_ — Phreakin
+> _“The best solution to a problem is often the simplest one.” — Phreakin_
 
 
 ## 📊 GitHub Activity & Visitors ##
