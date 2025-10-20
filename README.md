@@ -98,12 +98,16 @@ I welcome constructive criticism and collaboration on any of my upcoming open-so
 ---
 📂 **Home Intranet System:**
 [github.com/phreakin/home-intranet](Home Intranet Repository)
+
 📂 **Media Management App:**
 [github.com/phreakin/media-management](Media Management Repository)
+
 📂 **Windows Installer Automation:**
 [github.com/phreakin/windows-installer-scripts](Windows Installer Scripts Repository)
+
 📂 **Legacy App Refactor:**
 [github.com/phreakin/legacy-app-refactor](Legacy App Refactor Repository)
+
 📂 **CMS / Media Suite:**
 [github.com/phreakin/cms-media-suite](CMS Media Suite Repository)
 
