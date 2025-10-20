@@ -17,7 +17,7 @@ Making things work better, faster, and cleaner — with an obsession for persona
 
 
 ## 🚀 What I’m Working On ##
-
+---
 🏠 **Home Intranet System**
 Modular CMS/intranet built with PHP 8 & MySQL 8, focusing on extensibility and local network integration.
 
@@ -32,7 +32,7 @@ Focused on PHP database libraries, schema design tools, and backend utilities.
 
 
 ## 🧩 Core Skills & Tools ##
-
+---
 | Area                 | Skills & Practices                                          |
 | -------------------- | ----------------------------------------------------------- |
 | **PHP Environments** | PHP 8.x, MySQL 8, Composer, PHPUnit                         |
@@ -44,7 +44,7 @@ Focused on PHP database libraries, schema design tools, and backend utilities.
 
 
 ## 📂 Selected Projects ##
-
+---
 🏠 **Home Intranet:**  
 A personal intranet system with user management, note-taking, and file storage — built with PHP 8 and MySQL 8.
 
@@ -60,14 +60,14 @@ Revamped an old PHP/MySQL app to improve performance and security — reducing l
 🧩 **CMS / Media Suite:**  
 A combined CMS and media management system for personal use — built for modularity, simplicity, and scalability.
 
-## 📈 GitHub Stats
-
+## 📈 GitHub Stats ##
+---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phreakin&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phreakin&layout=compact&theme=radical)
 
 
 ## 🤝 How You Can Work With Me ##
-
+---
 ✅ **Open-Source Collaboration:**
 PHP/MySQL tools, database libraries, and performance utilities.
 
@@ -82,7 +82,7 @@ I welcome constructive criticism and collaboration on any of my upcoming open-so
 
 
 ## 🧠 Fun Facts ##
-
+---
 🔍 I treat slow queries like detective cases — every missing index is a clue.
 
 🎮 When I’m not coding, I’m tuning my home automation setup or gaming on Xbox.
@@ -95,13 +95,13 @@ I welcome constructive criticism and collaboration on any of my upcoming open-so
 
 
 ## 🔗 My Repositories ##
-
+---
 Currently, my repositories are private — but open-source releases are in progress.
 Stay tuned for modular PHP/MySQL tools and home automation systems soon.
 
 
 ## 🌐 Socials ##
-
+---
 🐙 **GitHub:**
 [github.com/phreakin](https://github.com/phreakin)
 
@@ -116,7 +116,7 @@ Stay tuned for modular PHP/MySQL tools and home automation systems soon.
 
 
 ## 🎓 Learning Goals ##
-
+---
 🤖 **Smart Home Integration:**  
 Integrate PHP/MySQL backends with home automation and entertainment systems.
 
@@ -134,19 +134,19 @@ Strengthen backend security with best practices for authentication, validation, 
 
 
 ## 📬 Let’s Connect ##
-
+---
 ✉️ **Email:**
 [phreakin@gmail.com](mailto:phreakin@gmail.com)
 
 
 ## 📬 Memorable Quotes ##
-
+---
 > _“Code is like humor — when you have to explain it, it’s bad.”_ — Cory House
 > _“The best solution to a problem is often the simplest one.”_ — Phreakin
 
 
 ## 📊 GitHub Activity & Visitors ##
-
+---
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=phreakin&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" /><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phreakin&theme=radical" alt="Profile Details" /><br>
@@ -160,7 +160,7 @@ Strengthen backend security with best practices for authentication, validation, 
 #### _Last updated: October 20, 2025_ ####
 
 ### 🏷️ Tags ###
-
+---
 `#PHPDeveloper` `#MySQLExpert` `#BackendDevelopment` `#DatabaseDesign`
 `#PerformanceOptimization` `#OpenSourceContributor` `#HomeAutomation`
 `#CodeQuality` `#DevOpsBasics` `#LegacyCodeRescue` `#ModularCMS`
