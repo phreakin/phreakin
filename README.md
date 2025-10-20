@@ -16,7 +16,7 @@ PHP 8.x • MySQL 8 • Node.js • Composer • HTML/CSS • JavaScript
 Making things work better, faster, and cleaner — with an obsession for personal efficiency and automation.
 
 
-## 🚀 What I’m Working On
+## 🚀 What I’m Working On ##
 
 🏠 **Home Intranet System**
 Modular CMS/intranet built with PHP 8 & MySQL 8, focusing on extensibility and local network integration.
@@ -31,7 +31,7 @@ Learning advanced MySQL features: window functions, CTEs, partitioning, and hori
 Focused on PHP database libraries, schema design tools, and backend utilities.
 
 
-## 🧩 Core Skills & Tools
+## 🧩 Core Skills & Tools ##
 
 
 | Area                 | Skills & Practices                                          |
@@ -44,7 +44,7 @@ Focused on PHP database libraries, schema design tools, and backend utilities.
 | **Legacy Rescue**    | Modernizing old PHP apps, cleaning up tech debt             |
 
 
-## 📂 Selected Projects
+## 📂 Selected Projects ##
 
 🏠 **Home Intranet:**  
 A personal intranet system with user management, note-taking, and file storage — built with PHP 8 and MySQL 8.
@@ -62,12 +62,13 @@ Revamped an old PHP/MySQL app to improve performance and security — reducing l
 A combined CMS and media management system for personal use — built for modularity, simplicity, and scalability.
 
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats ##
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phreakin&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phreakin&layout=compact&theme=radical)
 
-## 🤝 How You Can Work With Me
+
+## 🤝 How You Can Work With Me ##
 
 ✅ **Open-Source Collaboration:**
 PHP/MySQL tools, database libraries, and performance utilities.
@@ -81,7 +82,8 @@ Tutorials, guides, and blog posts on PHP 8 and MySQL best practices.
 📢 **Feedback:**
 I welcome constructive criticism and collaboration on any of my upcoming open-source projects.
 
-## 🧠 Fun Facts
+
+## 🧠 Fun Facts ##
 
 🔍 I treat slow queries like detective cases — every missing index is a clue.
 
@@ -93,10 +95,12 @@ I welcome constructive criticism and collaboration on any of my upcoming open-so
 
 ☕ Mountain Dew + Clean Code = Peak Productivity.
 
-## 🔗 My Repositories
+
+## 🔗 My Repositories ##
 
 Currently, my repositories are private — but open-source releases are in progress.
 Stay tuned for modular PHP/MySQL tools and home automation systems soon.
+
 
 ## 🌐 Socials
 
@@ -113,7 +117,7 @@ Stay tuned for modular PHP/MySQL tools and home automation systems soon.
 [pimpslap.org](https://pimpslap.org) *(coming soon)*
 
 
-## 🎓 Learning Goals
+## 🎓 Learning Goals ##
 
 🤖 **Smart Home Integration:**  
 Integrate PHP/MySQL backends with home automation and entertainment systems.
@@ -131,15 +135,18 @@ Use Docker to streamline local development and deployment for PHP/MySQL apps.
 Strengthen backend security with best practices for authentication, validation, and SQL protection.
 
 
-## 📬 Let’s Connect
+## 📬 Let’s Connect ##
 
 ✉️ **Email:**
 [phreakin@gmail.com](mailto:phreakin@gmail.com)
 
+
+## 📬 Quotes ##
 > _“Code is like humor — when you have to explain it, it’s bad.”_ — Cory House
 > _“The best solution to a problem is often the simplest one.”_ — Phreakin
 
-## 📊 GitHub Activity & Visitors
+
+## 📊 GitHub Activity & Visitors ##
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=phreakin&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" /><br>
@@ -153,7 +160,7 @@ Strengthen backend security with best practices for authentication, validation, 
 
 #### _Last updated: October 20, 2025_
 
-### 🏷️ Tags
+### 🏷️ Tags ##
 
 `#PHPDeveloper` `#MySQLExpert` `#BackendDevelopment` `#DatabaseDesign`
 `#PerformanceOptimization` `#OpenSourceContributor` `#HomeAutomation`
