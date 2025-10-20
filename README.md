@@ -68,16 +68,16 @@ A combined CMS and media management system for personal use — built for modula
 
 ## 🤝 How You Can Work With Me ##
 ---
-✅ **Open-Source Collaboration:**
+✅ **Open-Source Collaboration:**<br>
 PHP/MySQL tools, database libraries, and performance utilities.
 
-💼 **Consulting:**
+💼 **Consulting:**<br>
 Query optimization, database design, and backend refactoring.
 
-🎓 **Knowledge Sharing:**
+🎓 **Knowledge Sharing:**<br>
 Tutorials, guides, and blog posts on PHP 8 and MySQL best practices.
 
-📢 **Feedback:**
+📢 **Feedback:**<br>
 I welcome constructive criticism and collaboration on any of my upcoming open-source projects.
 
 
