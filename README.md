@@ -33,7 +33,6 @@ Focused on PHP database libraries, schema design tools, and backend utilities.
 
 ## 🧩 Core Skills & Tools ##
 
-
 | Area                 | Skills & Practices                                          |
 | -------------------- | ----------------------------------------------------------- |
 | **PHP Environments** | PHP 8.x, MySQL 8, Composer, PHPUnit                         |
@@ -61,8 +60,7 @@ Revamped an old PHP/MySQL app to improve performance and security — reducing l
 🧩 **CMS / Media Suite:**  
 A combined CMS and media management system for personal use — built for modularity, simplicity, and scalability.
 
-
-## 📈 GitHub Stats ##
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phreakin&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phreakin&layout=compact&theme=radical)
@@ -102,7 +100,7 @@ Currently, my repositories are private — but open-source releases are in progr
 Stay tuned for modular PHP/MySQL tools and home automation systems soon.
 
 
-## 🌐 Socials
+## 🌐 Socials ##
 
 🐙 **GitHub:**
 [github.com/phreakin](https://github.com/phreakin)
@@ -141,7 +139,8 @@ Strengthen backend security with best practices for authentication, validation, 
 [phreakin@gmail.com](mailto:phreakin@gmail.com)
 
 
-## 📬 Quotes ##
+## 📬 Memorable Quotes ##
+
 > _“Code is like humor — when you have to explain it, it’s bad.”_ — Cory House
 > _“The best solution to a problem is often the simplest one.”_ — Phreakin
 
@@ -158,9 +157,9 @@ Strengthen backend security with best practices for authentication, validation, 
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fwww.github.com%2Fphreakin&label=Profile+Views&labelColor=%230d1117&countColor=%23f8d866&style=flat-square" alt="Visitor Badge" />
 </p>
 
-#### _Last updated: October 20, 2025_
+#### _Last updated: October 20, 2025_ ####
 
-### 🏷️ Tags ##
+### 🏷️ Tags ###
 
 `#PHPDeveloper` `#MySQLExpert` `#BackendDevelopment` `#DatabaseDesign`
 `#PerformanceOptimization` `#OpenSourceContributor` `#HomeAutomation`
