@@ -1,16 +1,110 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F8D866&center=true&vCenter=true&width=750&lines=Hi!%20I%27m%20Phreakin;PHP%20and%20MySQL%20Developer;Home%20Automation%20%26%20Management%20Developer;Windows%20Custom%20Scripts%20Developer" alt="Typing SVG" />
+</h1>
 
-<!--
-**phreakin/phreakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎯 **Role**: Disabled Student • PHP & MySQL Developer • Home Automation & Management Enthusiast
+💡 **Focus:** Backend APIs, MySQL database schema design & optimization for personal and home automation projects
+🛠️ **Stack:** PHP 8.x • MySQL 8 • Node.js • Composer • HTML/CSS • JavaScript
+📚 **Passion:** Making things work better, faster, and cleaner — with an obsession for personal efficiency and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working On
+
+- 🏠 **Home Intranet System** — Modular CMS/intranet built with PHP 8 & MySQL 8, focusing on extensibility and local network integration.
+- 🧠 **Legacy App Optimization** — Refactoring old PHP/MySQL apps for better performance and maintainability.
+- 🔍 **Database Innovation** — Learning advanced MySQL features: window functions, CTEs, partitioning, and horizontal scaling.
+- 🧩 **Open-Source Contributions** — Focused on PHP database libraries, schema design tools, and backend utilities.
+
+## 🧩 Core Skills & Tools
+
+
+| Area                 | Skills & Practices                                          |
+| -------------------- | ----------------------------------------------------------- |
+| **PHP Environments** | PHP 8.x, MySQL 8, Composer, PHPUnit                         |
+| **Databases**        | Schema design, indexing strategy, performance tuning        |
+| **DevOps / Tools**   | Composer, Git, Docker basics                                |
+| **Performance**      | Query optimization, caching strategies, load testing        |
+| **Security**         | Preventing SQL injection, enforcing least privilege, audits |
+| **Legacy Rescue**    | Modernizing old PHP apps, cleaning up tech debt             |
+
+## 📂 Selected Projects
+
+- **Home Intranet:**
+  Personal intranet system for notes, user management, and media — powered by PHP 8 & MySQL 8.
+- **Media Management:**
+  Lightweight cataloging app for local media — optimized queries and indexing for instant retrieval.
+- **Windows Installer Automation:**
+  PowerShell scripts that automate app installations, configurations, and font management on Windows 10/11.
+- **Legacy App Refactor:**
+  Modernized a decade-old PHP app, cutting load times by 40% and improving maintainability.
+- **CMS/Media Suite:**
+  A combined CMS and media hub designed for home use with modular PHP components.
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phreakin&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phreakin&layout=compact&theme=radical)
+
+## 🤝 How You Can Work With Me
+
+- ✅ **Open-Source Collaboration:** PHP/MySQL tools, database libraries, and performance utilities.
+- 💼 **Consulting:** Query optimization, database design, and backend refactoring.
+- 🎓 **Knowledge Sharing:** Tutorials, guides, and blog posts on PHP 8 and MySQL best practices.
+- 📢 **Feedback:** I welcome constructive criticism and collaboration on any of my upcoming open-source projects.
+
+## 🧠 Fun Facts
+
+- 🔍 I treat slow queries like detective cases — every missing index is a clue.
+- 🎮 When I’m not coding, I’m tuning my home automation setup or gaming on Xbox.
+- 📚 Avid reader of backend engineering and data architecture blogs.
+- 🎵 My coding playlist is 90% metalcore and 80s hair metal.
+- ☕ Mountain Dew + Clean Code = Peak Productivity.
+
+## 🔗 My Repositories
+
+Currently, my repositories are private — but open-source releases are in progress.
+Stay tuned for modular PHP/MySQL tools and home automation systems soon.
+
+## 🌐 Socials
+
+- [🐙 GitHub](https://github.com/phreakin)
+- [𝕏 Twitter](https://twitter.com/smashinholes)
+- [💬 Telegram](https://t.me/phreakin)
+- [🌐 Website](https://pimpslap.org) *(coming soon)*
+
+## 🎓 Learning Goals
+
+- Integrate PHP/MySQL backends with smart-home automation systems
+- Master advanced MySQL scaling (partitioning, sharding, replication)
+- Refine PHP 8.x best practices and SOLID-compliant architecture
+- Deploy using Docker for consistent, isolated local environments
+- Expand knowledge of web security for backend applications
+
+## 📬 Let’s Connect
+
+✉️ **Email:** [phreakin@gmail.com](mailto:phreakin@gmail.com)
+
+> _“Code is like humor — when you have to explain it, it’s bad.”_ — Cory House
+> _“The best solution to a problem is often the simplest one.”_ — Phreakin
+
+## 📊 GitHub Activity & Visitors
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=phreakin&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" /><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phreakin&theme=radical" alt="Profile Details" /><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phreakin&theme=redical&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fwww.github.com%2Fphreakin&label=Profile+Views&labelColor=%230d1117&countColor=%23f8d866&style=flat-square" alt="Visitor Badge" />
+</p>
+
+#### _Last updated: October 20, 2025_
+
+### 🏷️ Tags
+
+`#PHPDeveloper` `#MySQLExpert` `#BackendDevelopment` `#DatabaseDesign`
+`#PerformanceOptimization` `#OpenSourceContributor` `#HomeAutomation`
+`#CodeQuality` `#DevOpsBasics` `#LegacyCodeRescue` `#ModularCMS`
+`#IntranetSystem` `#PersonalProjects`
