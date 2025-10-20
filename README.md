@@ -117,7 +117,7 @@ I welcome constructive criticism and collaboration on any of my upcoming open-so
 [https://www.github.com/phreakin/legacy-app-refactor](Legacy App Refactor Repository)
 
 📂 **CMS / Media Suite:**<br>
-[https://www.github.com/phreakin/cms-media-suite](CMS / Media Suite Repository)
+[https://www.github.com/phreakin/cms-media-suite](CMS/Media Suite Repository)
 
 
 ## 🌐 Socials
