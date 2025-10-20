@@ -105,7 +105,7 @@ I welcome constructive criticism and collaboration on any of my upcoming open-so
 ---
 
 📂 **Home Intranet System:**<br>
-[https://www.github.com/phreakin/home-intranet](Home Intranet Repository)
+[https://www.github.com/phreakin/home-intranet]()
 
 📂 **Media Management App:**<br>
 [https://www.github.com/phreakin/media-management](Media Management Repository)
@@ -118,6 +118,7 @@ I welcome constructive criticism and collaboration on any of my upcoming open-so
 
 📂 **CMS / Media Suite:**<br>
 [https://www.github.com/phreakin/cms-media-suite](CMS / Media Suite Repository)
+
 
 ## 🌐 Socials
 
