@@ -95,12 +95,20 @@ function sendError(res, status, message) {
 
 function serveStatic(req, res) {
   const parsedUrl = url.parse(req.url);
-  const sanitizePath = path.normalize(parsedUrl.pathname).replace(/^\/+/, '');
-  let pathname = path.join(__dirname, 'public', sanitizePath);
+  const publicDir = path.join(__dirname, 'public');
+  const sanitizedPath = path.normalize(parsedUrl.pathname).replace(/^\/+/, '');
+  const requestedPath = path.resolve(path.join(publicDir, sanitizedPath));
+
+  if (requestedPath !== publicDir && !requestedPath.startsWith(publicDir + path.sep)) {
+    sendError(res, 403, 'Forbidden');
+    return;
+  }
+
+  let pathname = requestedPath;
 
   fs.stat(pathname, (err, stats) => {
     if (err || !stats.isFile()) {
-      pathname = path.join(__dirname, 'public', 'index.html');
+      pathname = path.join(publicDir, 'index.html');
     }
 
     fs.readFile(pathname, (readErr, data) => {
