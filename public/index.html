@@ -8,13 +8,23 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css">
 </head>
 <body>
   <header class="hero">
     <div class="hero__content">
-      <p class="eyebrow">Media Pulse</p>
-      <h1>Music, TV, Movies & Pop Culture — all in one place.</h1>
-      <p class="lede">A live dashboard that tracks trusted entertainment feeds so you can keep up with what everyone is talking about.</p>
+      <p class="eyebrow">
+        <i class="fas fa-broadcast-tower"></i>
+        Media Pulse
+      </p>
+      <h1>
+        <i class="fas fa-fire"></i>
+        Music, TV, Movies, Technology, Sports, Politics, Streaming, Pop Culture, and more - all in one place.
+      </h1>
+      <p class="lede">
+        <i class="fas fa-chart-line"></i>
+        A live dashboard that tracks trusted entertainment feeds so you can keep up with what everyone is talking about.
+      </p>
       <div class="controls">
         <div class="input-group">
           <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -24,11 +34,24 @@
           <input id="searchInput" type="search" placeholder="Search headlines or sources" aria-label="Search headlines" />
         </div>
         <div class="filter-row">
-          <button class="chip active" data-category="All">All</button>
-          <button class="chip" data-category="Music">Music</button>
-          <button class="chip" data-category="TV">TV</button>
-          <button class="chip" data-category="Movies">Movies</button>
-          <button class="chip" data-category="Pop Culture">Pop Culture</button>
+          <button class="chip active" data-category="All"><i class="fas fa-globe gray-500"></i> All</button>
+          <button class="chip" data-category="Movies"><i class="fas fa-film yellow-500"></i> Movies</button>
+          <button class="chip" data-category="Music"><i class="fas fa-music green-500"></i> Music</button>
+          <button class="chip" data-category="US News"><i class="fas fa-newspaper blue-500"></i> US News</button>
+          <button class="chip" data-category="World News"><i class="fas fa-globe purple-500"></i> World News</button>
+          <button class="chip" data-category="Politics"><i class="fas fa-landmark red-500"></i> Politics</button>
+          <button class="chip" data-category="Other"><i class="fas fa-ellipsis-h gray-400"></i> Other</button>
+          <button class="chip" data-category="Pop Culture"><i class="fas fa-star pink-500"></i> Pop Culture</button>
+          <button class="chip" data-category="Sports"><i class="fas fa-football-ball green-600"></i> Sports</button>
+          <button class="chip" data-category="Technology"><i class="fas fa-laptop-code blue-600"></i> Technology</button>
+          <button class="chip" data-category="TV"><i class="fas fa-tv yellow-600"></i> TV</button>
+          <button class="chip" data-category="US News"><i class="fas fa-newspaper indigo-600"></i> US News</button>
+          <button class="chip" data-category="World News"><i class="fas fa-globe purple-600"></i> World News</button>
+          <button class="chip" data-category="YouTube"><i class="fab fa-youtube red-600"></i> YouTube</button>
+          <button class="chip" data-category="Streaming"><i class="fas fa-tv blue-400"></i> Streaming</button>
+          <button class="chip" data-category="Politics"><i class="fas fa-landmark red-600"></i> Politics</button>
+          <button class="chip" data-category="Podcasts"><i class="fas fa-podcast purple-400"></i> Podcasts</button>
+          <button class="chip" data-category="Other"><i class="fas fa-ellipsis-h gray-400"></i> Other</button>
         </div>
         <div class="meta">
           <span id="status">Loading latest stories...</span>
@@ -61,5 +84,6 @@
   <div class="toast" id="toast" role="status" aria-live="assertive"></div>
 
   <script src="app.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/js/all.min.js"></script>
 </body>
 </html>
