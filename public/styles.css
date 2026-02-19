@@ -6,7 +6,123 @@
   --accent: #fbbf24;
   --card: #11182c;
   --border: #1f2937;
+  --icon: #8b94a5;
+  --accent-hover: #fbbf24cc;
+  --link: #81a1c1;
+  --link-hover: #94a3b8;
   --shadow: 0 20px 60px rgba(0, 0, 0, 0.45);
+
+  --gray-100: #f7fafc;
+  --gray-200: #edf2f7;
+  --gray-300: #e2e8f0;
+  --gray-400: #cbd5e0;
+  --gray-500: #a0aec0;
+  --gray-600: #718096;
+  --gray-700: #4a5568;
+  --gray-800: #2d3748;
+  --gray-900: #1a202c;
+
+  --blue-100: #ebf8ff;
+  --blue-200: #bee3f8;
+  --blue-300: #90cdf4;
+  --blue-400: #63b3ed;
+  --blue-500: #4299e1;
+  --blue-600: #3182ce;
+  --blue-700: #2b6cb0;
+  --blue-800: #2c5282;
+  --blue-900: #2a4365;
+
+  --cyan-100: #e3fafc;
+  --cyan-200: #c5f6fa;
+  --cyan-300: #99e9f2;
+  --cyan-400: #66d9e8;
+  --cyan-500: #3bc9db;
+  --cyan-600: #22b8cf;
+  --cyan-700: #15aabf;
+  --cyan-800: #1098ad;
+  --cyan-900: #0c8599;
+
+  --green-100: #ebfbee;
+  --green-200: #d3f9d8;
+  --green-300: #b2f2bb;
+  --green-400: #8ce99a;
+  --green-500: #69db7c;
+  --green-600: #51cf66;
+  --green-700: #40c057;
+  --green-800: #37b24d;
+  --green-900: #2f9e44;
+
+  --yellow-100: #fefce8;
+  --yellow-200: #fdf6b2;
+  --yellow-300: #fce96a;
+  --yellow-400: #fad33d;
+  --yellow-500: #f7bc17;
+  --yellow-600: #f4a20d;
+  --yellow-700: #e38d13;
+  --yellow-800: #d1741b;
+  --yellow-900: #c25e22;
+
+  --red-100: #fef2f2;
+  --red-200: #fee2e2;
+  --red-300: #fecaca;
+  --red-400: #fca5a5;
+  --red-500: #f87171;
+  --red-600: #ef4444;
+  --red-700: #dc2626;
+  --red-800: #b91c1c;
+  --red-900: #991b1b;
+
+  --indigo-100: #ebf4ff;
+  --indigo-200: #c3dafe;
+  --indigo-300: #a3bffa;
+  --indigo-400: #7f9cf5;
+  --indigo-500: #667eea;
+  --indigo-600: #5a67d8;
+  --indigo-700: #4c51bf;
+  --indigo-800: #434190;
+  --indigo-900: #3c366b;
+
+  --orange-100: #fff7ed;
+  --orange-200: #ffedd5;
+  --orange-300: #fed7aa;
+  --orange-400: #fdba74;
+  --orange-500: #fb923c;
+  --orange-600: #f97316;
+  --orange-700: #ea580c;
+  --orange-800: #c2410c;
+  --orange-900: #9a3412;
+
+  --purple-100: #faf5ff;
+  --purple-200: #e9d8fd;
+  --purple-300: #d6bcfa;
+  --purple-400: #b794f4;
+  --purple-500: #9f7aea;
+  --purple-600: #805ad5;
+  --purple-700: #6b46c1;
+  --purple-800: #553c9a;
+  --purple-900: #44337a;
+
+  --pink-100: #fff5f7;
+  --pink-200: #fed7e2;
+  --pink-300: #fbb6ce;
+  --pink-400: #f687b3;
+  --pink-500: #ed64a6;
+  --pink-600: #d53f8c;
+  --pink-700: #b83280;
+  --pink-800: #97266d;
+  --pink-900: #702459;
+
+  --teal-100: #e6fffa;
+  --teal-200: #b2f5ea;
+  --teal-300: #81e6d9;
+  --teal-400: #4fd1c5;
+  --teal-500: #38b2ac;
+  --teal-600: #319795;
+  --teal-700: #2c7a7b;
+  --teal-800: #285e61;
+  --teal-900: #234e52;
+
+
 }
 
 * {
@@ -34,7 +150,7 @@ body {
 
 .eyebrow {
   color: var(--accent);
-  text-transform: uppercase;
+  transform: uppercase;
   font-weight: 700;
   letter-spacing: 0.08em;
   margin: 0 0 8px;
@@ -177,7 +293,7 @@ body {
   color: #e0f2fe;
   border: 1px solid rgba(255, 255, 255, 0.08);
   font-weight: 700;
-  text-transform: uppercase;
+  transform: uppercase;
   letter-spacing: 0.05em;
   font-size: 12px;
 }
@@ -205,7 +321,7 @@ body {
 
 .cta {
   color: var(--accent);
-  text-decoration: none;
+  decoration: none;
   font-weight: 700;
 }
 
@@ -246,7 +362,117 @@ body {
   border: 1px dashed var(--border);
   border-radius: 14px;
   padding: 32px;
-  text-align: center;
+  align: center;
   color: var(--muted);
   grid-column: 1 / -1;
 }
+
+.gray-100 { color: var(--gray-100); }
+.gray-200 { color: var(--gray-200); }
+.gray-300 { color: var(--gray-300); }
+.gray-400 { color: var(--gray-400); }
+.gray-500 { color: var(--gray-500); }
+.gray-600 { color: var(--gray-600); }
+.gray-700 { color: var(--gray-700); }
+.gray-800 { color: var(--gray-800); }
+.gray-900 { color: var(--gray-900); }
+
+.blue-100 { color: var(--blue-100); }
+.blue-200 { color: var(--blue-200); }
+.blue-300 { color: var(--blue-300); }
+.blue-400 { color: var(--blue-400); }
+.blue-500 { color: var(--blue-500); }
+.blue-600 { color: var(--blue-600); }
+.blue-700 { color: var(--blue-700); }
+.blue-800 { color: var(--blue-800); }
+.blue-900 { color: var(--blue-900); }
+
+.cyan-100 { color: var(--cyan-100); }
+.cyan-200 { color: var(--cyan-200); }
+.cyan-300 { color: var(--cyan-300); }
+.cyan-400 { color: var(--cyan-400); }
+.cyan-500 { color: var(--cyan-500); }
+.cyan-600 { color: var(--cyan-600); }
+.cyan-700 { color: var(--cyan-700); }
+.cyan-800 { color: var(--cyan-800); }
+.cyan-900 { color: var(--cyan-900); }
+
+.green-100 { color: var(--green-100); }
+.green-200 { color: var(--green-200); }
+.green-300 { color: var(--green-300); }
+.green-400 { color: var(--green-400); }
+.green-500 { color: var(--green-500); }
+.green-600 { color: var(--green-600); }
+.green-700 { color: var(--green-700); }
+.green-800 { color: var(--green-800); }
+.green-900 { color: var(--green-900); }
+
+.indigo-100 { color: var(--indigo-100); }
+.indigo-200 { color: var(--indigo-200); }
+.indigo-300 { color: var(--indigo-300); }
+.indigo-400 { color: var(--indigo-400); }
+.indigo-500 { color: var(--indigo-500); }
+.indigo-600 { color: var(--indigo-600); }
+.indigo-700 { color: var(--indigo-700); }
+.indigo-800 { color: var(--indigo-800); }
+.indigo-900 { color: var(--indigo-900); }
+
+.orange-100 { color: var(--orange-100); }
+.orange-200 { color: var(--orange-200); }
+.orange-300 { color: var(--orange-300); }
+.orange-400 { color: var(--orange-400); }
+.orange-500 { color: var(--orange-500); }
+.orange-600 { color: var(--orange-600); }
+.orange-700 { color: var(--orange-700); }
+.orange-800 { color: var(--orange-800); }
+.orange-900 { color: var(--orange-900); }
+
+.purple-100 { color: var(--purple-100); }
+.purple-200 { color: var(--purple-200); }
+.purple-300 { color: var(--purple-300); }
+.purple-400 { color: var(--purple-400); }
+.purple-500 { color: var(--purple-500); }
+.purple-600 { color: var(--purple-600); }
+.purple-700 { color: var(--purple-700); }
+.purple-800 { color: var(--purple-800); }
+.purple-900 { color: var(--purple-900); }
+
+.pink-100 { color: var(--pink-100); }
+.pink-200 { color: var(--pink-200); }
+.pink-300 { color: var(--pink-300); }
+.pink-400 { color: var(--pink-400); }
+.pink-500 { color: var(--pink-500); }
+.pink-600 { color: var(--pink-600); }
+.pink-700 { color: var(--pink-700); }
+.pink-800 { color: var(--pink-800); }
+.pink-900 { color: var(--pink-900); }
+
+.red-100 { color: var(--red-100); }
+.red-200 { color: var(--red-200); }
+.red-300 { color: var(--red-300); }
+.red-400 { color: var(--red-400); }
+.red-500 { color: var(--red-500); }
+.red-600 { color: var(--red-600); }
+.red-700 { color: var(--red-700); }
+.red-800 { color: var(--red-800); }
+.red-900 { color: var(--red-900); }
+
+.teal-100 { color: var(--teal-100); }
+.teal-200 { color: var(--teal-200); }
+.teal-300 { color: var(--teal-300); }
+.teal-400 { color: var(--teal-400); }
+.teal-500 { color: var(--teal-500); }
+.teal-600 { color: var(--teal-600); }
+.teal-700 { color: var(--teal-700); }
+.teal-800 { color: var(--teal-800); }
+.teal-900 { color: var(--teal-900); }
+
+.yellow-100 { color: var(--yellow-100); }
+.yellow-200 { color: var(--yellow-200); }
+.yellow-300 { color: var(--yellow-300); }
+.yellow-400 { color: var(--yellow-400); }
+.yellow-500 { color: var(--yellow-500); }
+.yellow-600 { color: var(--yellow-600); }
+.yellow-700 { color: var(--yellow-700); }
+.yellow-800 { color: var(--yellow-800); }
+.yellow-900 { color: var(--yellow-900); }
