@@ -39,9 +39,129 @@ const feedSources = [
   },
   {
     category: 'Pop Culture',
-    name: 'Entertainment Weekly',
-    url: 'https://ew.com/feed/',
+    name: 'TMZ',
+    url: 'https://www.tmz.com/rss.xml',
   },
+  {
+    category: 'Technology',
+    name: 'TechCrunch',
+    url: 'https://techcrunch.com/feed/',
+  },
+  {
+    category: 'Technology',
+    name: 'TechRadar',
+    url: 'https://www.techradar.com/feeds.xml',
+  },
+  {
+    "category": "Sports",
+    "name": "ESPN",
+    "url": "https://www.espn.com/espn/rss/news"
+  },
+  {
+    "category": "Sports",
+    "name": "Fox Sports",
+    "url": "https://www.foxsports.com/feedout/syndicatedContent?categoryId=0&partnerId=87&tagId=0"
+  },
+  {
+    "category": "Sports",
+    "name": "ESPN NFL",
+    "url": "https://www.espn.com/espn/rss/nfl/news?null"
+  },
+  {
+    "category": "Sports",
+    "name": "College Football",
+    "url": "https://www.ncaa.com/news/football/fbs/rss.xml"
+  },
+  {
+    "category": "World News",
+    "name": "BBC News",
+    "url": "https://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "category": "World News",
+    "name": "CNN",
+    "url": "https://rss.cnn.com/rss/cnn_topstories.rss"
+  },
+  {
+    "category": "US News",
+    "name": "Fox News",
+    "url": "https://feeds.foxnews.com/foxnews/latest"
+  },
+  {
+    "category": "World News",
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/rss"
+  },
+  {
+    "category": "US News",
+    "name": "Washington Post",
+    "url": "https://www.washingtonpost.com/rss/national"
+  },
+  {
+    "category": "US News",
+    "name": "Google News",
+    "url": "https://news.google.com/rss/search?q=headlines%20language:en"
+  },
+  {
+    "category": "Youtube",
+    "name": "YouTube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-9-kyTW8ZkZNDHQJ6FgpwQ"
+  },
+  {
+    "category": "Politics",
+    "name": "CNN Politics",
+    "url": "https://rss.cnn.com/rss/cnn_politics_latest.rss"
+  },
+  {
+    "category": "Politics",
+    "name": "Google News Reuters",
+    "url": "https://news.google.com/rss/search?q=site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen"
+  },
+  {
+    "category": "Politics",
+    "name": "Washington Post Politics",
+    "url": "https://www.washingtonpost.com/arcio/rss/category/politics/?itid=lk_inline_manual_2"
+  },
+  {
+    "category": "Streaming",
+    "name": "HBO",
+    "url": "https://www.hbo.com/rss/news"
+  },
+  {
+    "category": "Streaming",
+    "name": "Netflix",
+    "url": "https://www.netflix.com/feed/topstories"
+  },
+  {
+    "category": "Streaming",
+    "name": "Amazon Prime Video",
+    "url": "https://www.amazon.com/rss/video-on-demand"
+  },
+  {
+    "category": "Podcast",
+    "name": "Crime Junkie",
+    "url": "https://feeds.simplecast.com/qm_9xx0g"
+  },
+  {
+    "category": "Movies",
+    "name": "Apple Top Movies",
+    "url": "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topMovies/xml"
+  },
+  {
+    "category": "Streaming",
+    "name": "CordCutters Hulu",
+    "url": "https://cordcuttersnews.com/category/news/hulu/feed/"
+  },
+  {
+    "category": "Podcasts",
+    "name": "Joe Rogan Experience",
+    "url": "https://media.rss.com/the-joe-rogan-experience-podcast-summary/feed.xml"
+  },
+  {
+    "category": "Movies",
+    "name": "Apple Movie Trailers",
+    "url": "https://tv.apple.com/us/room/movie--tv-trailers/edt.item.64248313-7414-4d63-a6fc-7c29f9916c79"
+  }
 ];
 
 let cachedFeeds = null;
