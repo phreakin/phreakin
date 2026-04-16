@@ -1,0 +1,386 @@
+[
+  {
+    "name": ".htaccess Generator",
+    "slug": "htaccess-generator",
+    "description": "Free .htaccess generator utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Audio Extractor",
+    "slug": "audio-extractor",
+    "description": "Free audio extractor utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Audio Player",
+    "slug": "audio-player",
+    "description": "Free audio player utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Audio Trimmer",
+    "slug": "audio-trimmer",
+    "description": "Free audio trimmer utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Background Remover",
+    "slug": "background-remover",
+    "description": "Free background remover utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Base64 Encoder/Decoder",
+    "slug": "base64-encoder-decoder",
+    "description": "Free base64 encoder/decoder utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Bookmarks",
+    "slug": "bookmarks",
+    "description": "Free bookmarks utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Bootstrap Button Generator",
+    "slug": "bootstrap-button-generator",
+    "description": "Free bootstrap button generator utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Bootstrap Form Generator",
+    "slug": "bootstrap-form-generator",
+    "description": "Free bootstrap form generator utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Box Shadow Generator",
+    "slug": "box-shadow-generator",
+    "description": "Free box shadow generator utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Cannabis Data",
+    "slug": "cannabis-data",
+    "description": "Free cannabis data utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Code Diff",
+    "slug": "code-diff",
+    "description": "Free code diff utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Color Converter",
+    "slug": "color-converter",
+    "description": "Free color converter utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Crypto Prices",
+    "slug": "crypto-prices",
+    "description": "Free crypto prices utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "CSS Units Converter",
+    "slug": "css-units-converter",
+    "description": "Free css units converter utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Currency Converter",
+    "slug": "currency-converter",
+    "description": "Free currency converter utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Dark Web Monitor",
+    "slug": "dark-web-monitor",
+    "description": "Free dark web monitor utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Drug Schedules",
+    "slug": "drug-schedules",
+    "description": "Free drug schedules utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Epstein Emails",
+    "slug": "epstein-emails",
+    "description": "Free epstein emails utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Erase Yourself",
+    "slug": "erase-yourself",
+    "description": "Free erase yourself utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "File Compressor",
+    "slug": "file-compressor",
+    "description": "Free file compressor utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Flight Tracker",
+    "slug": "flight-tracker",
+    "description": "Free flight tracker utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Game Emulator",
+    "slug": "game-emulator",
+    "description": "Free game emulator utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Github Repositories",
+    "slug": "github-repositories",
+    "description": "Free github repositories utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Gradient Generator",
+    "slug": "gradient-generator",
+    "description": "Free gradient generator utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "GUID Generator",
+    "slug": "guid-generator",
+    "description": "Free guid generator utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "HTML Editor",
+    "slug": "html-editor",
+    "description": "Free html editor utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Image Converter",
+    "slug": "image-converter",
+    "description": "Free image converter utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Image Crop",
+    "slug": "image-crop",
+    "description": "Free image crop utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Image Filters",
+    "slug": "image-filters",
+    "description": "Free image filters utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Image Resize",
+    "slug": "image-resize",
+    "description": "Free image resize utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Image Showcase",
+    "slug": "image-showcase",
+    "description": "Free image showcase utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "JSON Formatter",
+    "slug": "json-formatter",
+    "description": "Free json formatter utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "JWT Decoder",
+    "slug": "jwt-decoder",
+    "description": "Free jwt decoder utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Latest Weather",
+    "slug": "latest-weather",
+    "description": "Free latest weather utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Lorem Ipsum Generator",
+    "slug": "lorem-ipsum-generator",
+    "description": "Free lorem ipsum generator utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Markdown Editor",
+    "slug": "markdown-editor",
+    "description": "Free markdown editor utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Meta Tags Generator",
+    "slug": "meta-tags-generator",
+    "description": "Free meta tags generator utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Movie Showtimes",
+    "slug": "movie-showtimes",
+    "description": "Free movie showtimes utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Music Dashboard",
+    "slug": "music-dashboard",
+    "description": "Free music dashboard utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "News Feeds",
+    "slug": "news-feeds",
+    "description": "Free news feeds utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Notes",
+    "slug": "notes",
+    "description": "Free notes utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "OG Preview",
+    "slug": "og-preview",
+    "description": "Free og preview utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Open Data Explorer",
+    "slug": "open-data-explorer",
+    "description": "Free open data explorer utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Passphrase Generator",
+    "slug": "passphrase-generator",
+    "description": "Free passphrase generator utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Password Generator",
+    "slug": "password-generator",
+    "description": "Free password generator utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Password Manager",
+    "slug": "password-manager",
+    "description": "Free password manager utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Personal Data",
+    "slug": "personal-data",
+    "description": "Free personal data utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Podcast Player",
+    "slug": "podcast-player",
+    "description": "Free podcast player utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Police Shootings Tracker",
+    "slug": "police-shootings-tracker",
+    "description": "Free police shootings tracker utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "QR Code Generator",
+    "slug": "qr-code-generator",
+    "description": "Free qr code generator utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Reddit Dashboard",
+    "slug": "reddit-dashboard",
+    "description": "Free reddit dashboard utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Regex Tester",
+    "slug": "regex-tester",
+    "description": "Free regex tester utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "RSS Feeds",
+    "slug": "rss-feeds",
+    "description": "Free rss feeds utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Sports News",
+    "slug": "sports-news",
+    "description": "Free sports news utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Stock Market Dashboard",
+    "slug": "stock-market-dashboard",
+    "description": "Free stock market dashboard utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Streaming Guides",
+    "slug": "streaming-guides",
+    "description": "Free streaming guides utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Survival Guide",
+    "slug": "survival-guide",
+    "description": "Free survival guide utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Tech News",
+    "slug": "tech-news",
+    "description": "Free tech news utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "URL Shortener",
+    "slug": "url-shortener",
+    "description": "Free url shortener utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Video Trim",
+    "slug": "video-trim",
+    "description": "Free video trim utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "Videos",
+    "slug": "videos",
+    "description": "Free videos utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "War Tracker",
+    "slug": "war-tracker",
+    "description": "Free war tracker utility for developers.",
+    "category": "Developer Tools"
+  },
+  {
+    "name": "World Clock",
+    "slug": "world-clock",
+    "description": "Free world clock utility for developers.",
+    "category": "Developer Tools"
+  }
+]
