@@ -1,25 +1,93 @@
-# Media Pulse Dashboard
+# Jason “Phreakin” Merrill
 
-A lightweight dashboard that aggregates RSS feeds for music, TV, movies, and pop culture into a single view. The server uses a simple Node.js HTTP server and relies on the public `rss2json` gateway to normalize RSS feeds without extra dependencies.
+**PHP/MySQL developer · Web systems architect · Automation & dashboards · Lived-experience advocate**
 
-## Features
-- Curated feeds from trusted entertainment publications.
-- Category chips and keyword search to quickly filter stories.
-- Manual refresh and auto timestamp for the latest fetch.
-- Minimal styling geared toward a media-focused control center.
+I build **practical, high‑impact systems**: dashboards, admin tools, automation pipelines, and media workflows that are meant to be *used*, not just admired. My work leans on clean structure, factual accuracy, and production‑ready polish.
 
-## Getting started
-1. Ensure you have Node.js 18+ installed.
-2. Install dependencies (none required beyond Node itself).
-3. Start the server:
-   ```bash
-   node server.js
-   ```
-4. Open the dashboard at `http://localhost:3000`.
+I also speak openly about **chronic pain, opioids, stigma, and the healthcare system**—using lived experience plus research to push for more humane, evidence‑based care.
 
-## How it works
-- The `/api/feeds` endpoint fetches RSS feeds via `https://api.rss2json.com` and caches combined results for 15 minutes to reduce network requests.
-- The front-end filters items by category or keyword and links directly to the original articles.
+---
 
-## Adding feeds
-Update the `feedSources` array in `server.js` with new sources following the existing structure of `category`, `name`, and `url`.
+## 🔧 Core tech stack
+
+- **Languages:** PHP, JavaScript, SQL, Bash  
+- **Backend:** PHP (classic & modern), REST APIs, cron‑driven automation  
+- **Database:** MySQL/MariaDB, query optimization, schema design  
+- **Frontend:** HTML5, CSS3, basic JS, dashboard‑style UIs  
+- **Tools & Infra:** Git, GitHub, Linux servers, cPanel/hosting panels, CLI workflows  
+
+---
+
+## 🧩 What I build
+
+- **Dashboards & admin panels**  
+  Data‑driven views for operations, monitoring, and decision‑making.
+
+- **Automation & glue code**  
+  Scripts and services that connect APIs, databases, and third‑party tools.
+
+- **Template & prompt systems**  
+  Modular, fill‑in‑the‑blank structures for repeatable workflows (technical and creative).
+
+- **Media & quote layouts**  
+  High‑impact quote images with disciplined, often military‑inspired design and bold typography.
+
+---
+
+## 🎯 Current focuses
+
+- **Operational clarity:**  
+  Turning messy processes into clean dashboards and repeatable flows.
+
+- **Prompt & template libraries:**  
+  Designing reusable prompt frameworks for coding, research, and media creation.
+
+- **Lived‑experience speaking:**  
+  Building short, structured talks for:
+  - Clinicians (stigma, pain, opioids, outcomes)  
+  - People in recovery (survival, complexity, harm reduction)  
+  - Chronic pain patients (validation, navigation, self‑advocacy)
+
+---
+
+## 🗣 Speaking & advocacy
+
+I’m interested in **time‑limited, high‑impact talks** where real stories actually change behavior:
+
+- **For clinicians:**  
+  *“Treat the person, not the medication list.”*  
+  Stigma, chronic pain, and how bias changes outcomes.
+
+- **For recovery & harm‑reduction spaces:**  
+  The gray zone between “patient” and “addict,” and how people fall through system gaps.
+
+- **For chronic pain communities:**  
+  Being believed, navigating care, and staying functional in a broken system.
+
+If you’re looking for a **raw, structured, and honest** voice on pain + opioids, I’m open to collaboration.
+
+---
+
+## 📂 Repo structure (typical)
+
+You’ll usually see something like:
+
+- `src/` – Core application code  
+- `public/` – Public web root / entry points  
+- `config/` – Environment and app configuration  
+- `templates/` – Views, layouts, and reusable blocks  
+- `scripts/` – Automation, cron jobs, and utilities  
+- `docs/` – Usage notes, API docs, and workflow guides  
+
+---
+
+## 📫 Contact & collaboration
+
+- **GitHub:** (you’re here)  
+- **Preferred collabs:**  
+  - Admin dashboards & internal tools  
+  - Automation and integration projects  
+  - Prompt/template systems  
+  - Speaking or panel slots on pain, opioids, and stigma
+
+If a project needs **clarity, structure, and no bullshit**, that’s where I fit best.
