@@ -25,7 +25,7 @@ Right now I’m pouring an unreasonable amount of time (and probably a few years
 **L**ived‑Experience  
 **D**ata  
 
-Basically: a place where people dealing with **opiates, chronic pain, recovery, stigma, and the healthcare circus** can get real information, real support, and real tools — not the usual “just try yoga and drink water” bullshit.
+Basically: a place where people dealing with **opiates, chronic pain, recovery, stigma, and the healthcare circus** can get real information, real support, and real tools — not the usual “just try yoga and drink water” bullshit. It takes a patient first outlook on everything, but only provides personal and identifying data to the patient and provider. AI helps facilitate data aggregation and risk assessment scores based on a variety of personal, public and social factors. It never makes a fnial decision, and that will always fall on the provider and patient. But the goal is to educate users and at the same time reassure the providers that they're not just supporting an addict.
 
 SHIELD is built to help:
 
