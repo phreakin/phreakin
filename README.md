@@ -32,8 +32,6 @@
   </tr>
 </table>
 
----
-
 ## 🌈 About Me
 
 I’m Jason — a **25‑year network & systems engineer** who finally admitted that keeping servers alive at 3 AM wasn’t scratching the creative itch anymore. So now I’m diving head‑first back into **development**, because apparently I enjoy suffering *and* learning new shit at the same time.
