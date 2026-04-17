@@ -58,7 +58,6 @@ At the end of the day, I like building things that:
 
 Whether it’s software, automation, or honest conversation — I build with purpose, a bit of sarcasm, and just enough profanity to keep it real.
 
-
 ---
 
 ## 🔧 Core Tech Stack
@@ -108,7 +107,7 @@ I’m interested in **short, high‑impact talks** where real stories actually c
 - 👨‍⚕️ **Medical Providers**  
   It's about time they are held accountable, not everyone but them.
 
-If you want a **raw, structured, honest** voice on pain + opioids, I’m open to collaboration.
+If you want a **raw, structured, honest** voice on pain + opioids, I’m open to collaboration. I know the medical system, the terrible provider policies, and the unethical treatment of patients before even knowing their health concerns.
 
 ---
 
