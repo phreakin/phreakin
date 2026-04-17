@@ -1,4 +1,5 @@
 # Jason “Phreakin” Merrill
+###  Currently letting AI run my life and it's much easier
 
 **PHP/MySQL developer · Web systems architect · Automation & dashboards · Lived-experience advocate**
 
