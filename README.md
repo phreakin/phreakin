@@ -36,12 +36,20 @@
 
 ## 🌈 About Me
 
-**💻 PHP/MySQL developer · 🧠 Systems architect · ⚙️ Automation & dashboards · 🗣️ Lived‑experience advocate**
+Hey, I’m Jason — a **systems‑minded builder** who loves taking messy, chaotic processes and turning them into clean, reliable, repeatable workflows. I design tools that make life easier: dashboards, automation pipelines, admin panels, and media systems that feel smooth, predictable, and actually enjoyable to use.
 
-I build **practical, high‑impact systems** — dashboards, admin tools, automation pipelines, and media workflows that are meant to be *used*, not just admired.  
-My work leans on clean structure, factual accuracy, and production‑ready polish.
+I work heavily in **PHP, MySQL, and operational architecture**, building the kind of internal tools that teams quietly depend on every day. My style leans toward **simple, durable, and maintainable** — the stuff that runs for years without drama.
 
-I also speak openly about **chronic pain, opioids, stigma, and the healthcare system** — using lived experience + research to push for more humane, evidence‑based care.
+Outside of code, I’m a **lived‑experience advocate** who speaks openly about chronic pain, opioids, stigma, and the healthcare system. I use structured storytelling + real‑world experience to help clinicians, recovery groups, and patients understand what care looks like from the inside.
+
+At the end of the day, I like building things that:
+
+- ✨ Reduce friction  
+- 🧠 Increase clarity  
+- 🔧 Solve real problems  
+- ❤️ Make people’s lives less overwhelming  
+
+Whether it’s software, automation, or honest conversation — I’m here to build with purpose.
 
 ---
 
