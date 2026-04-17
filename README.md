@@ -36,20 +36,29 @@
 
 ## 🌈 About Me
 
-Hey, I’m Jason — a **systems‑minded builder** who loves taking messy, chaotic processes and turning them into clean, reliable, repeatable workflows. I design tools that make life easier: dashboards, automation pipelines, admin panels, and media systems that feel smooth, predictable, and actually enjoyable to use.
+I’m Jason — a **25‑year network & systems engineer** who finally gave in to the itch I’ve had for years:  
+building things again. After decades of keeping infrastructure alive, scaling systems, and solving the kind of problems that only show up at 3 AM, I’m shifting back into **development** to scratch that “I need to learn something new” instinct that never really went away.
 
-I work heavily in **PHP, MySQL, and operational architecture**, building the kind of internal tools that teams quietly depend on every day. My style leans toward **simple, durable, and maintainable** — the stuff that runs for years without drama.
+These days I’m focused on **PHP, MySQL, automation, dashboards, and workflow design** — the practical stuff that makes teams faster, clearer, and less overwhelmed. I love taking chaotic processes and turning them into **clean, reliable, repeatable systems** that feel good to use.
 
-Outside of code, I’m a **lived‑experience advocate** who speaks openly about chronic pain, opioids, stigma, and the healthcare system. I use structured storytelling + real‑world experience to help clinicians, recovery groups, and patients understand what care looks like from the inside.
+My engineering background gives me a bias toward tools that are:
+
+- 🔧 Simple  
+- 🧠 Durable  
+- ⚡ Fast  
+- 🧼 Easy to maintain  
+
+Outside of tech, I’m a **lived‑experience advocate** who speaks openly about chronic pain, opioids, stigma, and the healthcare system. I use structured storytelling + real‑world experience to help clinicians, recovery groups, and patients understand what care looks like from the inside.
 
 At the end of the day, I like building things that:
 
 - ✨ Reduce friction  
-- 🧠 Increase clarity  
-- 🔧 Solve real problems  
-- ❤️ Make people’s lives less overwhelming  
+- 🧭 Increase clarity  
+- 🔗 Connect systems  
+- ❤️ Make life a little less overwhelming  
 
-Whether it’s software, automation, or honest conversation — I’m here to build with purpose.
+Whether it’s software, automation, or honest conversation — I build with purpose.
+
 
 ---
 
