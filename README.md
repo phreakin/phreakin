@@ -10,6 +10,23 @@
 
 ---
 
+## 📊 GitHub Stats & Languages
+
+<div align="center">
+
+### 🔥 Overall GitHub Stats  
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonphreakinmerrill&show_icons=true&theme=tokyonight&hide_border=true)
+
+### 🧠 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonphreakinmerrill&layout=compact&theme=tokyonight&hide_border=true)
+
+### 🚀 Contribution Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasonphreakinmerrill&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 **💻 PHP/MySQL developer · 🧠 Web systems architect · ⚙️ Automation & dashboards · 🗣️ Lived-experience advocate**
 
 I build **practical, high‑impact systems** — dashboards, admin tools, automation pipelines, and media workflows that are meant to be *used*, not just admired. My work leans on clean structure, factual accuracy, and production‑ready polish.
@@ -77,6 +94,8 @@ docs/       → Usage notes, API docs, and workflow guides
 ```
 ---
 
+---
+
 ## 📫 Contact & Collaboration
 
 - 🧑‍💻 **GitHub:** (you’re here)  
@@ -88,3 +107,4 @@ docs/       → Usage notes, API docs, and workflow guides
 
 If a project needs **clarity, structure, and no bullshit**, that’s where I fit best.  
 ✨ *Built with purpose. Powered by lived experience.*
+
