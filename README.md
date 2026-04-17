@@ -14,21 +14,20 @@
 
 ---
 
-## 🛡️ SHIIELD — The Thing I’m Building So People Don’t Fall Through the Cracks
+## 🛡️ SHIELD — The Thing I’m Building So People Don’t Fall Through the Cracks
 
 Right now I’m pouring a ridiculous amount of time (and probably several years off my lifespan) into a platform called **SHIIELD** — because of course I had to make an acronym. It stands for:
 
 **S**upport  
 **H**arm‑Reduction  
-**I**nsight  
-**I**nformation  
+**I**nformation  & Insight 
 **E**mpathy  
 **L**ived‑Experience  
 **D**ata  
 
 Basically: a place where people dealing with **opiates, chronic pain, recovery, stigma, and the healthcare circus** can get real information, real support, and real tools — not the usual “just try yoga and drink water” bullshit.
 
-SHIIELD is meant to help:
+SHIELD is meant to help:
 
 - 🧍 People in pain who get treated like criminals  
 - 💊 Folks navigating opioids, tapering, or MAT  
@@ -43,7 +42,7 @@ I’m building it piece by piece — dashboards, data tools, resource libraries,
 On top of being a giant middle finger to stigma and bad information, SHIIELD also does some genuinely useful, nerdy, life‑saving shit:
 
 - 📊 **Risk assessment scores (1–100)**  
-  Clean, simple, “even‑your‑doctor‑can’t-screw-this-up” scoring that helps people understand their situation without needing a PhD or a decoder ring.  
+  Clean, simple, “even-your-doctor-ca n’t-screw-this-up” scoring that helps people understand their situation without needing a PhD or a decoder ring.  
   No fear‑mongering, no judgment — just clear numbers and context.
 
 - 🩺 **Monitoring & trend tracking**  
