@@ -36,28 +36,29 @@
 
 ## 🌈 About Me
 
-I’m Jason — a **25‑year network & systems engineer** who finally gave in to the itch I’ve had for years:  
-building things again. After decades of keeping infrastructure alive, scaling systems, and solving the kind of problems that only show up at 3 AM, I’m shifting back into **development** to scratch that “I need to learn something new” instinct that never really went away.
+I’m Jason — a **25‑year network & systems engineer** who finally admitted that keeping servers alive at 3 AM wasn’t scratching the creative itch anymore. So now I’m diving head‑first back into **development**, because apparently I enjoy suffering *and* learning new shit at the same time.
 
-These days I’m focused on **PHP, MySQL, automation, dashboards, and workflow design** — the practical stuff that makes teams faster, clearer, and less overwhelmed. I love taking chaotic processes and turning them into **clean, reliable, repeatable systems** that feel good to use.
+After two decades of babysitting networks, taming infrastructure, and fixing problems caused by people who “swear they didn’t touch anything,” I’ve shifted into building things that actually make life easier:  
+**dashboards, automation pipelines, admin tools, and clean workflows** that don’t fight you every step of the way.
 
-My engineering background gives me a bias toward tools that are:
+My engineering background means everything I build leans toward:
 
-- 🔧 Simple  
-- 🧠 Durable  
-- ⚡ Fast  
-- 🧼 Easy to maintain  
+- 🔧 **Simple** (because complexity is a liar)  
+- 🧠 **Durable** (I don’t want to fix it again next week)  
+- ⚡ **Fast** (slow tools are a crime)  
+- 🧼 **Low‑bullshit maintenance** (future me deserves peace)
 
-Outside of tech, I’m a **lived‑experience advocate** who speaks openly about chronic pain, opioids, stigma, and the healthcare system. I use structured storytelling + real‑world experience to help clinicians, recovery groups, and patients understand what care looks like from the inside.
+Outside of tech, I’m a **lived‑experience advocate** who talks openly about chronic pain, opioids, stigma, and the healthcare system. I mix real stories with structured frameworks to help clinicians, recovery groups, and patients understand what the hell is actually going on inside the system.
 
 At the end of the day, I like building things that:
 
 - ✨ Reduce friction  
 - 🧭 Increase clarity  
-- 🔗 Connect systems  
+- 🔗 Connect the messy parts  
 - ❤️ Make life a little less overwhelming  
+- 🤌 And don’t make you say “what the hell is this?” every time you open them
 
-Whether it’s software, automation, or honest conversation — I build with purpose.
+Whether it’s software, automation, or honest conversation — I build with purpose, a bit of sarcasm, and just enough profanity to keep it real.
 
 
 ---
