@@ -105,7 +105,7 @@ I’m interested in **short, high‑impact talks** where real stories actually c
 - 💪 **Chronic pain communities:**  
   Being believed, navigating care, staying functional.
 
-- 💪 **Medical Providers**  
+- 👨‍⚕️ **Medical Providers**  
   It's about time they are held accountable, not everyone but them.
 
 If you want a **raw, structured, honest** voice on pain + opioids, I’m open to collaboration.
