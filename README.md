@@ -20,7 +20,7 @@ Right now I’m pouring a ridiculous amount of time (and probably several years 
 
 **S**upport  
 **H**arm‑Reduction  
-**I**nformation  & Insight 
+**I**nformation and Insight 
 **E**mpathy  
 **L**ived‑Experience  
 **D**ata  
