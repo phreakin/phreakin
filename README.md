@@ -106,7 +106,7 @@ I’m interested in **short, high‑impact talks** where real stories actually c
   Being believed, navigating care, staying functional.
 
 - 💪 **Medical Providers**  
-  Being believed, navigating care, staying functional.
+  It's about time they are held accountable, not everyone but them.
 
 If you want a **raw, structured, honest** voice on pain + opioids, I’m open to collaboration.
 
