@@ -85,6 +85,44 @@ On top of being a giant middle finger to stigma and bad information, SHIELD also
   No dark patterns. No sneaky checkboxes. No “oops, we enrolled you automatically.”  
   If someone doesn’t explicitly say *yes*, the system says *hell no*.
 
+---
+
+SHIELD exists because too many people get crushed by a system that was never designed for them —  
+so I’m building the thing I wish existed years ago.
+
+
+---
+
+### 🧍 Who SHIELD Is Built For
+
+- People in pain who get treated like criminals  
+- Folks navigating opioids, tapering, or MAT  
+- Clinicians who want to help but don’t know what the hell is actually happening  
+- Anyone stuck between “patient” and “addict” with no map and no translator  
+
+---
+
+### 🧪 What SHIELD Actually *Does* (aka: why I’m losing sleep building it)
+
+On top of being a giant middle finger to stigma and bad information, SHIELD also does some genuinely useful, nerdy, life‑saving shit:
+
+- 📊 **Risk assessment scores (1–100)**  
+  Clean, simple, “even‑your‑doctor‑can’t-screw-this-up” scoring based on medical history, environment, community trends, and current social/recreational patterns — without fear‑mongering or judgment.
+
+- 📈 **Monitoring & trend tracking**  
+  Because people’s lives don’t happen in snapshots. SHIELD tracks changes over time so patterns don’t get missed and people don’t fall through the cracks.
+
+- 🔌 **Integrations everywhere**  
+  EMRs, EPMs, public datasets, private medical data (with consent), APIs, FHIR — if it helps the user, SHIELD plugs into it.
+
+- 🧍 **The patient is the damn focus**  
+  Not the system. Not the metrics. Not the bureaucracy.  
+  SHIELD is built around the person actually living the experience — their story, their data, their control.
+
+- 🔐 **Opt‑in. Always. Forever.**  
+  No dark patterns. No sneaky checkboxes. No “oops, we enrolled you automatically.”  
+  If someone doesn’t explicitly say *yes*, the system says *hell no*.
+
 - 🔐 **Patient Data Download**  
   The patient will also always have the option to download the entirety of their data in the system by simply requesting it and an immediate copy of their data will be available for download.
 
