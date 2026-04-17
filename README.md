@@ -14,54 +14,50 @@
 
 ---
 
-## 🛡️ SHIELD — The Thing I’m Building So People Don’t Fall Through the Cracks
+## 🛡️ SHIELD — The Platform I’m Building Because the System Sure as Hell Isn’t
 
-Right now I’m pouring a ridiculous amount of time (and probably several years off my lifespan) into a platform called **SHIIELD** — because of course I had to make an acronym. It stands for:
+Right now I’m pouring an unreasonable amount of time (and probably a few years off my lifespan) into a platform called **SHIELD** — because of course I had to make an acronym. It stands for:
 
 **S**upport  
 **H**arm‑Reduction  
-**I**nformation and Insight 
+**I**nsight  
 **E**mpathy  
 **L**ived‑Experience  
 **D**ata  
 
 Basically: a place where people dealing with **opiates, chronic pain, recovery, stigma, and the healthcare circus** can get real information, real support, and real tools — not the usual “just try yoga and drink water” bullshit.
 
-SHIELD is meant to help:
+SHIELD is built to help:
 
 - 🧍 People in pain who get treated like criminals  
 - 💊 Folks navigating opioids, tapering, or MAT  
 - 🧠 Clinicians who want to help but don’t know what the hell is actually happening  
 - 🛟 Anyone stuck between “patient” and “addict” with no map and no translator  
 
-It’s part tech, part education, part lived‑experience honesty, and part “holy shit, why doesn’t this already exist?”
+### 🧪 What SHIELD Actually *Does* (aka: why I’m losing sleep building it)
 
-I’m building it piece by piece — dashboards, data tools, resource libraries, and structured guidance — all with the goal of making sure fewer people get crushed by a system that was absolutely not designed with them in mind.
-### 🧪 What SHIIELD Actually *Does* (aka: why I'm losing sleep building it)
-
-On top of being a giant middle finger to stigma and bad information, SHIIELD also does some genuinely useful, nerdy, life‑saving shit:
+On top of being a giant middle finger to stigma and bad information, SHIELD also does some genuinely useful, nerdy, life‑saving shit:
 
 - 📊 **Risk assessment scores (1–100)**  
-  Clean, simple, “even-your-doctor-ca n’t-screw-this-up” scoring that helps people understand their situation without needing a PhD or a decoder ring.  
-  No fear‑mongering, no judgment — just clear numbers and context.
+  Clean, simple, “even‑your‑doctor‑can’t-screw-this-up” scoring that helps people understand their situation without fear‑mongering or judgment.
 
-- 🩺 **Monitoring & trend tracking**  
-  Because people’s lives don’t happen in snapshots. SHIIELD tracks changes over time so patterns don’t get missed and people don’t fall through the cracks.
+- 📈 **Monitoring & trend tracking**  
+  Because people’s lives don’t happen in snapshots. SHIELD tracks changes over time so patterns don’t get missed and people don’t fall through the cracks.
 
 - 🔌 **Integrations everywhere**  
   It connects to other health platforms, public datasets, private medical data (when *you* say so), and anything else that helps build a clearer picture.  
-  APIs, FHIR, whatever — if it helps the user, SHIIELD plugs into it.
+  APIs, FHIR, whatever — if it helps the user, SHIELD plugs into it.
 
 - 🧍 **The patient is the damn focus**  
   Not the system. Not the metrics. Not the bureaucracy.  
-  SHIIELD is built around the person actually living the experience — their story, their data, their control.
+  SHIELD is built around the person actually living the experience — their story, their data, their control.
 
 - 🔐 **Opt‑in. Always. Forever.**  
   This platform will **never** be one of those “oops, we enrolled you automatically” nightmares.  
   If someone doesn’t explicitly say *yes*, the system says *hell no*.  
   No dark patterns. No sneaky checkboxes. No bullshit.
 
-SHIIELD exists because too many people get crushed by a system that wasn’t designed for them — and I’m building the thing I wish existed years ago.
+SHIELD exists because too many people get crushed by a system that wasn’t designed for them — so I’m building the thing I wish existed years ago.
 
 
 ## 📊 GitHub Stats & Languages
