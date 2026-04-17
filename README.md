@@ -105,6 +105,9 @@ I’m interested in **short, high‑impact talks** where real stories actually c
 - 💪 **Chronic pain communities:**  
   Being believed, navigating care, staying functional.
 
+- 💪 **Medical Providers**  
+  Being believed, navigating care, staying functional.
+
 If you want a **raw, structured, honest** voice on pain + opioids, I’m open to collaboration.
 
 ---
