@@ -67,14 +67,14 @@ If you’re looking for a **raw, structured, and honest** voice on pain + opioid
 ---
 
 ## 📂 Repo Structure (Typical)
-
+```text
 src/        → Core application code
 public/     → Public web root / entry points
 config/     → Environment and app configuration
 templates/  → Views, layouts, and reusable blocks
 scripts/    → Automation, cron jobs, and utilities
 docs/       → Usage notes, API docs, and workflow guides
-
+```
 ---
 
 ## 📫 Contact & Collaboration
