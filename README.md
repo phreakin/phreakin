@@ -39,7 +39,7 @@ SHIELD is built to help:
 On top of being a giant middle finger to stigma and bad information, SHIELD also does some genuinely useful, nerdy, life‑saving shit:
 
 - 📊 **Risk assessment scores (1–100)**  
-  Clean, simple, “even‑your‑doctor‑can’t-screw-this-up” scoring that helps people understand their situation without fear‑mongering or judgment.
+  Clean, simple, “even-your-doctor-ca n’t-screw-this-up” scoring that helps people understand their situation without fear‑mongering or judgment. Various personal medical history factors, environment and community factors, and current recreational and abuse trends socially.
 
 - 📈 **Monitoring & trend tracking**  
   Because people’s lives don’t happen in snapshots. SHIELD tracks changes over time so patterns don’t get missed and people don’t fall through the cracks.
