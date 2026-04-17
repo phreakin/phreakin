@@ -15,13 +15,13 @@
 <div align="center">
 
 ### 🔥 Overall GitHub Stats  
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonphreakinmerrill&show_icons=true&theme=tokyonight&hide_border=true)
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=phreakin&show_icons=true&theme=tokyonight&hide_border=true)
 
 ### 🧠 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonphreakinmerrill&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phreakin&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🚀 Contribution Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasonphreakinmerrill&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phreakin&theme=tokyonight&hide_border=true)
 
 </div>
 
