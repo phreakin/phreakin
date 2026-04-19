@@ -1,0 +1,5 @@
+const icons=["fa-code","fa-chart-line","fa-bolt","fa-screwdriver-wrench","fa-shield-halved","fa-database"];
+let tools=[];
+function render(list){const grid=$("#toolsGrid");grid.empty();list.forEach((tool,i)=>{grid.append(`<div class="col-md-6 col-xl-4"><div class="tool-card p-4 h-100"><div class="d-flex align-items-center gap-3 mb-2"><div class="icon-wrap"><i class="fa-solid ${icons[i%icons.length]}"></i></div><h5 class="mb-0">${tool.name}</h5></div><p class="text-secondary small mb-3">${tool.description}</p><a class="btn btn-outline-info btn-sm" href="/tools/${tool.slug}/">Open Tool</a></div></div>`)});}
+$.getJSON('/tools/tools.json',data=>{tools=data;render(tools);$("#randomTool").on('click',()=>{const t=tools[Math.floor(Math.random()*tools.length)];location.href=`/tools/${t.slug}/`;});});
+$("#toolSearch").on('input',function(){const q=this.value.toLowerCase().trim();render(tools.filter(t=>t.name.toLowerCase().includes(q)||t.description.toLowerCase().includes(q)));});
